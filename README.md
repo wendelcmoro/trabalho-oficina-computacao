@@ -11,4 +11,4 @@ Trabalhos Final da disciplina de Oficina de Computação(CI067) pelo curso de Ba
 - *-glue*: encontra uma sequência do arquivo_sequência2 dentro do arquivo_sequência1, se encontrar retira a sequência encontrada da sequência original e cola a sequência em alguma parte outra parte da sequência original
 - *-recombine*: encontra uma sequência do arquivo_sequência2 dentro do arquivo_sequência1, é a mesma função da opção *-glue* porém agora considera cadeias circulares , se encontrar retira a sequência encontrada da sequência original e cola a sequência em alguma parte outra parte da sequência original no arquivo_sequencia3
   
-Período original em que o projeto foi feito: 02/2018
+Período original em que o projeto foi feito: 2° Sem. 2018
